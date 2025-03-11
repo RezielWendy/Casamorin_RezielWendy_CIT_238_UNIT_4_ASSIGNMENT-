@@ -1,0 +1,2 @@
+C:/Users/HP/Desktop/CIT_238_UNIT_4_ASSIGNMENT/android/app/.cxx/Debug/1v6k5m5e/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/Desktop/CIT_238_UNIT_4_ASSIGNMENT/android/app/.cxx/Debug/1v6k5m5e/armeabi-v7a/CMakeFiles/rebuild_cache.dir
